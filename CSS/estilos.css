@@ -6,3 +6,12 @@
     width: 80%;
     margin: auto;
 }
+
+#cardstilo {
+    max-width: 100%;
+    margin-top: 1rem;
+}
+
+.centrartexto {
+    text-align: center;
+}
